@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 nombres
 
 Jorge 
+=======
+nombres:
+Jorge
+>>>>>>> 4799c21d9ed358f26d2d3f924aa11df1ef6c5fce
 Joselyne
